@@ -1,2 +1,2 @@
 # MLB
-Machine Learning Basics
+Machine Learning Basics repository
